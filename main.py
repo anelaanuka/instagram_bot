@@ -6,11 +6,11 @@ from selenium.webdriver.common.by import By
 
 #FOR USING INSTABOT YOU SHOULD DOWNLOAD CHROMEDRIVER AND WRITE PATH TO IT
 CHROME_DRIVER_PATH = "/Users/anelsagindykova/PycharmProjects/chromedriver"
-SOMEONES_ACCOUNT = "kytkasem.cz"
+SOMEONES_ACCOUNT = ""
 #WRITE YOUR USERNAME OR PHONE NUMBER HERE. Example: USERNAME = "myaccount"
-USERNAME = "pan_koska"
+USERNAME = ""
 #WRITE YOUR PASSWORD HERE. Example: PASSWORD = "MYPASSWORD1234"
-PASSWORD = "Bejgl420*"
+PASSWORD = ""
 HASHTAGS = ["plants", "cats", "cat", "catlover", "catlife"]
 COMMENT = "beautiful"
 
